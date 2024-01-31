@@ -1,24 +1,23 @@
 
 .boton {
     color: #ffffff;
-    background-color: rgb(82, 20, 163);
-    border-radius: 10px;
-    width: 200px;
-    height: 150px;
+    font-family: 'Times New Roman';
+    background-color: rgb(120, 55, 180);
+    border-radius: 55px;
+    width: 100px;
+    height: 70px;
+    font-size: 12px;
 }
 
+.word {
+    font-family: 'Times New Roman';
+    font-size: 20px
+
+}
 
 .titulo {
     color:powderblue;
 }
 .titulo_2 {
     color:floralwhite;
-}
-
-.color {
-    background-color: aliceblue;
-}
-
-.color_2 {
-    background-color: darkslategrey;
 }
