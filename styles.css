@@ -1,9 +1,8 @@
 
-.boton{
-    color:black;
-    border-width: 5px;
-    border-left: 10xp;
-    border-right: 10px;
+.boton {
+    width: 150px;
+    height: 50px;
+    border-radius: 50%;
 }
 
 
