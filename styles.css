@@ -1,18 +1,24 @@
 
-.boton {
+.contorno {
     color: #ffffff;
     font-family: 'Times New Roman';
-    background-color: rgb(120, 55, 180);
-    border-radius: 55px;
-    width: 100px;
-    height: 70px;
-    font-size: 12px;
+    background-color: rgb(118, 215, 228);
 }
+
+.size {
+    border-radius: 55px;
+    font-size: 30px;
+    display: inline-block;
+    align-items: center;
+    padding: 20px 40px;
+    text-decoration: none;
+
+}
+
 
 .word {
     font-family: 'Times New Roman';
     font-size: 20px
-/*loll*/
 }
 
 .titulo {
