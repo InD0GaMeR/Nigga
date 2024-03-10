@@ -2,15 +2,15 @@
 .contorno {
     color: #ffffff;
     font-family: 'Times New Roman';
-    background-color: rgb(118, 215, 228);
+    background-color: rgb(71, 188, 204);
 }
 
 .size {
-    border-radius: 55px;
+    border-radius: 50px;
     font-size: 30px;
     display: inline-block;
     align-items: center;
-    padding: 20px 40px;
+    padding: 10px 20px;
     text-decoration: none;
 
 }
